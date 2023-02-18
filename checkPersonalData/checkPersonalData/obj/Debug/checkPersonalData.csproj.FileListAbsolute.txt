@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\checkPersonalData\checkPersonalData\bin\Debug\checkPersonalData.exe.config
+C:\Users\Admin\source\repos\checkPersonalData\checkPersonalData\bin\Debug\checkPersonalData.exe
+C:\Users\Admin\source\repos\checkPersonalData\checkPersonalData\bin\Debug\checkPersonalData.pdb
+C:\Users\Admin\source\repos\checkPersonalData\checkPersonalData\obj\Debug\checkPersonalData.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\checkPersonalData\checkPersonalData\obj\Debug\checkPersonalData.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\checkPersonalData\checkPersonalData\obj\Debug\checkPersonalData.Form1.resources
+C:\Users\Admin\source\repos\checkPersonalData\checkPersonalData\obj\Debug\checkPersonalData.Properties.Resources.resources
+C:\Users\Admin\source\repos\checkPersonalData\checkPersonalData\obj\Debug\checkPersonalData.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\checkPersonalData\checkPersonalData\obj\Debug\checkPersonalData.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\checkPersonalData\checkPersonalData\obj\Debug\checkPersonalData.exe
+C:\Users\Admin\source\repos\checkPersonalData\checkPersonalData\obj\Debug\checkPersonalData.pdb
